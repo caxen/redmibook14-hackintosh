@@ -1,13 +1,22 @@
 # redmibook14-hackintosh
 Specs:
+
 Type	Details
+
 CPU	i5-8265u
+
 iGPU	Intel UHD620
+
 dGPU	NVidia MX250
+
 Display	1920x1080
+
 RAM	DDR4 8GB
+
 Audio	Realtek ALC256
+
 Network	DW1820A
+
 Mobo	TIMI TM1921 (U3E1)
 SSD	500gb SAMSUNG 
 KB	Standard PS2 Keyboard
