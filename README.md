@@ -32,20 +32,32 @@ Bootloader	OpenCore 0.6 BETA
 
 What works and What doesn't or WIP:
 
- *Intel UHD620 iGPU
- *USB Ports
- *Sleep / Wake
- *Touchpad
- *NVRAM
+*Intel UHD620 iGPU
+
+*USB Ports
+ 
+*Sleep / Wake
+ 
+*Touchpad
+ 
+*NVRAM
+ 
 *Headphone Sound
+
 *Internal / External Mic
+
 *Internal Speakers 
+
 *Backlight Controls
+
 *Bluetooth
+
 *WiFi
 
 Dosen't Worked device:
+
 *MX250 dGPU
+
 *HDMI OUT
 
 Important Notes:
