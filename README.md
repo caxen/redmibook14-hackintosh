@@ -32,5 +32,4 @@ What works and What doesn't or WIP:
 
 Dosen't Worked device:
 *MX250 dGPU
-
 Important Notes:
